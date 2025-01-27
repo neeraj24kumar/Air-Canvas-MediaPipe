@@ -45,5 +45,6 @@ Writing ‘MSCIT 224’ using the index finger i.e. the tip of the stylus
 
 ![image](https://github.com/user-attachments/assets/ea20a823-e731-43cc-9681-4cca0bed3f7e)
 Figure 4: Writing MSCIT 224
+
 The program functions as expected and demonstrates the true potential of computer vision by utilizing the MediaPipe and OpenCV libraries, which provide the necessary support for creating a gesture-recognized air canvas.
 
